@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/UIScenes/HomeScreen.unity
+    guid: 882729e3c48844192b6a7e34f6f4b50f
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World1/Level1W1.unity
+    guid: f3816543ad3fd44acaca670ae7b24ec1
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World1/Level2W1.unity
+    guid: e7366eb17d7234543b5c5101f8917103
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World1/Level3W1.unity
+    guid: 9f29dbeabc6a74512a9345cdcf027602
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World1/Level4W1.unity
+    guid: 11d1e0d7cc6c94dae93e1ebc39434d22
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World1/Level5W1.unity
+    guid: b2e0a99ccbd464e339173d565d146326
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World1/Level6W1.unity
+    guid: 9c1d2d7b1ad3a4dfc90ad11719723ca7
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World1/Level7W1.unity
+    guid: 163ffccd00b5e4cd1988f30b52f6521a
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World1/Level8W1.unity
+    guid: f3553bd3e3e8f48c99adbfe244723dc9
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World1/Level9W1.unity
+    guid: 815d6c1a92a2a4864b6a8f94ad826b79
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World2/Level1W2.unity
+    guid: 2b9f4a5708eef459ea73aebe20b00b50
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World2/Level2W2.unity
+    guid: a13c729bb9afd42e1b1d1fe9ba4b3fab
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World2/Level3W2.unity
+    guid: 85431a1b9a55f4a55ab6461e3ed7baf4
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World2/Level4W2.unity
+    guid: 937be848b68554cc79206785166cb72c
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World2/Level5W2.unity
+    guid: f3e4f48f0241e4aa296af63542a6c2db
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World2/Level6W2.unity
+    guid: 9e7fcf941ae14454494b6ee7861c5762
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World2/Level7W2.unity
+    guid: c423ebd28020448ab92ec7417250443d
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World2/Level8W2.unity
+    guid: 57664a5a480474c029ae8597371d9102
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World2/Level9W2.unity
+    guid: 3c00ab6f834bf49818e3f785b7481bf4
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World3/Level1W3.unity
+    guid: e914cda49563740108ecc458f1e1f20e
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World3/Level2W3.unity
+    guid: 06407a21fede14d1ab4a4cfe0ccc64f1
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World3/Level3W3.unity
+    guid: a03bfbee329d64dbb82badde51b4526d
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World3/Level4W3.unity
+    guid: ca7a0de858be843cbb2006bb5b12667b
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World3/Level5W3.unity
+    guid: 94583e302c19c4b71a8ffb7580503894
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World3/Level6W3.unity
+    guid: d51e8045e54c54ffa9b8565e3521eb60
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World3/Level7W3.unity
+    guid: 503ce019e93834c9380f7f7fc1ce1927
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World3/Level8W3.unity
+    guid: 6054588b95fec478d8f95466d36b2faa
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World3/Level9W3.unity
+    guid: 70b269840890c456d82e82c224e6abb8
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World4/Level1W4.unity
+    guid: 5e90ed3ceb7c44c228807dbb04d35484
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World4/Level2W4.unity
+    guid: 077557652a0d341769b3090950102b32
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World4/Level3W4.unity
+    guid: 26a6405b1f6994b79916e10365b1b79e
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World4/Level4W4.unity
+    guid: dbe9c59b7c8334cdbb1a9b6946fdec17
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World4/Level5W4.unity
+    guid: a9f417129bde64db8b9d6dbc7cc43b4a
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World4/Level6W4.unity
+    guid: 92ecbf942f8c64905b70782759b174ea
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World4/Level7W4.unity
+    guid: 9353d60ec14a147d8abd5b2e1cbe995f
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World4/Level8W4.unity
+    guid: bf65392e7da454c0bbb847faffe85d5b
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World4/Level9W4.unity
+    guid: 3fda0d774d84f4489b8460fade73f7b6
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/UIScenes/LevelSelectW1.unity
+    guid: c0343fc1977c34399b3ad8f2a3912693
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/UIScenes/LevelSelectW2.unity
+    guid: 585c7d0cf6ac0427f887981e80722849
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/UIScenes/LevelSelectW3.unity
+    guid: 5bb323d6304664ffda1f1bcc53232697
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/UIScenes/LevelSelectW4.unity
+    guid: 6ddf4f0304ade4dd1a79d862ac838b7c
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/World4/LevelSW4.unity
+    guid: 217600379ce1044d785264f9b9a3abc5
+  - enabled: 1
+    path: Assets/Project/Scenes/Levels/Finished/UIScenes/Credits.unity
+    guid: 47c389cc5dbba4c44aeaf1e457860357
+  m_configObjects: {}
